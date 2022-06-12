@@ -5,7 +5,7 @@ import realme8 from "../Images/Realme-8-5G-image.jpg";
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-light">
       <div
         id="carouselExampleIndicators"
         className="carousel slide "

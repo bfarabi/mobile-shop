@@ -61,8 +61,8 @@ const Checkout = () => {
                   type="text"
                   className="form-control"
                   id="firstName"
-                  placeholder
-                  defaultValue
+                  placeholder="Write first name "
+                  // defaultValue
                   required
                 />
                 <div className="invalid-feedback">
@@ -77,7 +77,7 @@ const Checkout = () => {
                   type="text"
                   className="form-control"
                   id="lastName"
-                  placeholder
+                  placeholder="Write last name "
                   defaultValue
                   required
                 />
